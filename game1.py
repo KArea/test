@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# -*- coding: utf-8 -*-
 print('---------------我爱python-------------')
 guess = int(input('不妨猜一下我现在心里想的是哪个数字：'))
 if guess == 8:
